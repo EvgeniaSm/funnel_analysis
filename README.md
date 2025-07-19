@@ -1,4 +1,4 @@
-# Senior Data Analyst – Sample Portfolio
+# Mobility as a Service – Analytics Project
 
 This mini portfolio showcases how I approach data challenges in a product-oriented environment. It includes examples of:
 - KPI definition frameworks
