@@ -1,4 +1,4 @@
--- Sample Funnel Analysis: Booking Funnel
+-- Funnel Analysis: Booking Funnel
 
 WITH step_1 AS (
     SELECT user_id, MIN(event_time) AS signup_time
